@@ -10,7 +10,7 @@ Place the following in for example `/.github/workflows/main.yml`:
 on: push
 name: Run the AFK-Bot
 jobs:
-  join:
+  join:plese
     name: Join the server
     runs-on: ubuntu-latest
     steps:
